@@ -331,7 +331,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: cplus 2s ease;
 }
 .java {
-  	width: 60%;
+  	width: 50%;
   	-moz-animation: java 2s ease;
   	-webkit-animation: java 2s ease;
 }
@@ -341,7 +341,7 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: html5 2s ease;
 }
 .javascript {
-  	width: 65%;
+  	width: 55%;
   	-moz-animation: javascript 2s ease;
   	-webkit-animation: javascript 2s ease;
 }
@@ -351,12 +351,12 @@ ul#nav li.current a { color: #F06000; }
   	-webkit-animation: css 2s ease;
 }
 .objective {
-  	width: 20%;
+  	width: 30%;
   	-moz-animation: objective 2s ease;
   	-webkit-animation: objective 2s ease;
 }
 .ror {
-    width: 20%;
+    width: 30%;
     -moz-animation: ror 2s ease;
     -webkit-animation: ror 2s ease;
 }
